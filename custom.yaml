@@ -1,0 +1,4 @@
+train: yolo-basketball-data/train/images
+val: yolo-basketball-data/val/images
+nc: 1
+names: ['basketball']
